@@ -1,0 +1,168 @@
+@media screen and (max-width: 959.98px) {
+    .default-ltr-cache-1d568uk {
+        width: 5.5625rem;
+        height: 1.5rem;
+    }
+}
+
+.default-ltr-cache-1d568uk {
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(229, 9, 20);
+    fill: currentColor;
+    display: block;
+}
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+.default-ltr-cache-raue2m {
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+
+default-ltr-cache-135yh4g * {
+    box-sizing: border-box;
+}
+
+.default-ltr-cache-zs522h>* {
+    margin-top: 0px;
+    margin-left: 16px;
+}
+
+body, html {
+    background:#141414;
+    color: #fff;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 10px;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.lolomoRow {
+    margin: 3vw 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+.slider-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.rowContainer {
+    display: flex;
+    gap: 10px; /* Space between images */
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    width: 100%;
+}
+
+.slider-item {
+    flex: none;
+}
+
+.slider-item img {
+    height: 130px;
+    width: 230px;
+    border-radius: 4px;
+}
+
+.row-header-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.fallback-text {
+    font-size: 0.8rem;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.arrow-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    z-index: 10;
+}
+
+.arrow-btn.left {
+    left: 0;
+}
+
+.arrow-btn.right {
+    right: 0;
+}
+
+.carousel-item img {
+    height: 500px;
+    width: 100%;/* Set your desired height here */
+    object-fit: cover;}
+.arrow-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.m-auto {
+    margin: auto !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.background-image {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('../images/nethome.jpg') center/cover no-repeat;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+}

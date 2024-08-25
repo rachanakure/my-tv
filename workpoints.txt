@@ -1,0 +1,11 @@
+login
+profile selection
+home page
+-containers-
+photos of serials,button,scrollerimage,
+navigation bar
+after click info of series
+tvshos 10
+movies 10
+score board
+like
